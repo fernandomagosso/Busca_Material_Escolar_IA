@@ -1,0 +1,7 @@
+{
+  "name": "BuscaEscolar AI",
+  "description": "Agente inteligente para busca, comparação e consolidação de listas de material escolar com IA e Google Search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
